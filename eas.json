@@ -21,7 +21,19 @@
         "EXPO_PUBLIC_FIREBASE_APP_ID": "1:666938186136:web:716a02bebe2900920733ed"
       }
     },
-    "production": {}
+    "production": {
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_FIREBASE_API_KEY": "AIzaSyDzgCNrde6ydK59LWu8lrVLzNAOSaoiSFU",
+        "EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN": "bookshelf-mma301.firebaseapp.com",
+        "EXPO_PUBLIC_FIREBASE_PROJECT_ID": "bookshelf-mma301",
+        "EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET": "bookshelf-mma301.firebasestorage.app",
+        "EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "666938186136",
+        "EXPO_PUBLIC_FIREBASE_APP_ID": "1:666938186136:web:716a02bebe2900920733ed"
+      }
+    }
   },
   "submit": {
     "production": {}
